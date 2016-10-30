@@ -1,6 +1,7 @@
 import java.util.Scanner;
+
 /**
- *Created by Corki on 2016/10/16 0016.
+ * Created by Corki on 2016/10/16 0016.
  */
 public class Main1328 {
     public static void main(String[] args) {
@@ -13,5 +14,6 @@ public class Main1328 {
                 ss[0] -= 32;
             System.out.println(ss);
         }
+        cin.close();
     }
 }
